@@ -2,7 +2,7 @@
 
 I am a graduate student at The University of Toronto pursuing a Master of Industrial Engineering focused in Analytics. I am a data fanatic who is looking to work in the data analytics, data science, or data engineering space. 
 
-![data_gif](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/60386859-7f0f-4ad5-b879-5d8206a59480)
+![mario_computer](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/b858f7c6-2f80-43c0-be3f-0c007b943bbc)
 
 <h1 align="left"> 🎓 Education</h1>
 Masters Degree from the University of Toronto (in progress) 
