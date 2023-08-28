@@ -4,7 +4,7 @@ I am a graduate student at The University of Toronto pursuing a Master of Indust
 
 ![data_gif](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/60386859-7f0f-4ad5-b879-5d8206a59480)
 
-
+![data_image](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/b42e6420-716a-424d-9806-cf7b8db3c5ac)
 <!---
 
 - 👀 I’m interested in ...
