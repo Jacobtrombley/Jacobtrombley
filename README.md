@@ -1,13 +1,11 @@
-<h1 align="center">Hello world, I’m @Jacobtrombley</h1>
-<h3 align="left">Connect with me:</h3>
-
-# Hello world, I’m @Jacobtrombley 👋
+<h1 align="center">Hello world, I’m @Jacobtrombley👋</h1>
 
 I am a graduate student at The University of Toronto pursuing a Master of Industrial Engineering focused in Analytics. I am a data fanatic who is looking to work in the data analytics, data science, or data engineering space. 
 
 ![data_gif](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/60386859-7f0f-4ad5-b879-5d8206a59480)
 
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
