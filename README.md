@@ -9,11 +9,10 @@ Masters Degree from the University of Toronto (in progress)
 
 Bachelors Degree from the University of Western Ontario, 2023
 
+- 🔭 I'm currently targetting a job in the data space 
 - 👀 I’m interested in all things data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 📚 I’m currently learning advanced learning algorithms, ETL/ELT tools, and taking some Coursera courses. 
 - 📫 How to reach me: Message me on Linkedin (linked below) or email me at jacobtrombley8@gmail.com!
-
 
 <h1 align="left"> 🌐 Socials:</h1> 
 
