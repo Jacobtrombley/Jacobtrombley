@@ -21,13 +21,10 @@ Bachelors Degree from the University of Western Ontario, 2023
   <a href="https://www.linkedin.com/[removed]](https://git-scm.com/](https://www.linkedin.com/in/jacob-trombley/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+
 </p>
 
-[Linkedin](https://www.linkedin.com/in/jacob-trombley/)
- <a href="[https://git-scm.com/](https://www.linkedin.com/in/jacob-trombley/)" target="_blank" rel="noreferrer"> <img src="![linkedin-ar21](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/de55a9e3-cad2-4506-819e-33d0069b3be9)" width="40" height="40"/> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
