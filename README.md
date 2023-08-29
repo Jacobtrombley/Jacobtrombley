@@ -5,9 +5,9 @@ I am a graduate student at The University of Toronto pursuing a Master of Indust
 ![mario_coding](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/0ac7f5ec-9c22-4652-8641-dcdbbe223bdb)
 
 <h1 align="left"> 🎓 Education</h1>
-Masters Degree from the University of Toronto (in progress) 
+Master of Industrial Engineering (Analytics) from the University of Toronto (in progress) 
 
-Bachelors Degree from the University of Western Ontario, 2023
+Honours Bachelor of Science from the University of Western Ontario, 2023
 
 - 🔭 I'm currently targetting a job in the data space 
 - 👀 I’m interested in all things data
