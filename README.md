@@ -34,7 +34,7 @@ Bachelors Degree from the University of Western Ontario, 2023
 
 
 # ✍️ Data Quote
-
+"The goal is to turn data into information, and information into insight." ~Carly Fiorina
 <!---
 
 - 👀 I’m interested in ...
