@@ -1,11 +1,12 @@
 <h1 align="center">Hello world, I’m @Jacobtrombley👋</h1>
 
-I am a graduate student at The University of Toronto pursuing a Master of Industrial Engineering focused in Analytics. I am a data fanatic who is looking to work in the data analytics, data science, or data engineering space. 
+I am a graduate student at The University of Toronto pursuing a Master of Industrial Engineering focused in Analytics. I am a data fanatic who is looking to work in the data analytics, data science, or data engineering space. I have a passion for problem-solving and enjoy the challange of finding new ways to use data to create innovative soltions to complex problems. 
 
 ![mario_coding](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/0ac7f5ec-9c22-4652-8641-dcdbbe223bdb)
 
 <h1 align="left"> 🎓 Education</h1>
 Masters Degree from the University of Toronto (in progress) 
+
 Bachelors Degree from the University of Western Ontario, 2023
 
 - 👀 I’m interested in ...
