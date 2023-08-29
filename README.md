@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I’m @Jacobtrombley👋</h1>
+<h1 align="center">Hello world, I’m Jacob👋</h1>
 
 I am a part-time graduate student at The University of Toronto pursuing a Master of Industrial Engineering focused in Analytics. I am a data fanatic who is looking to work in the data analytics, data science, or data engineering space. I have a passion for problem-solving and enjoy the challenge of finding new ways to use data to create innovative solutions to complex problems. 
 
