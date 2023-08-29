@@ -9,16 +9,16 @@ Masters Degree from the University of Toronto (in progress)
 
 Bachelors Degree from the University of Western Ontario, 2023
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in all things data
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Message me on Linkedin (linked below) or email me at jacobtrombley8@gmail.com!
 
 
 <h1 align="left"> 🌐 Socials:</h1> 
 
 [Linkedin](https://www.linkedin.com/in/jacob-trombley/)
- <a href="[https://git-scm.com/](https://www.linkedin.com/in/jacob-trombley/)" target="_blank" rel="noreferrer"> <img src="file:///Users/jacobtrombley/Downloads/linkedin-ar21.svg" alt="Linkedin" width="40" height="40"/> 
+ <a href="[https://git-scm.com/](https://www.linkedin.com/in/jacob-trombley/)" target="_blank" rel="noreferrer"> <img src="![linkedin-ar21](https://github.com/Jacobtrombley/images-in-readme/assets/124385220/de55a9e3-cad2-4506-819e-33d0069b3be9)" width="40" height="40"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
