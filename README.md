@@ -10,7 +10,7 @@ Master of Industrial Engineering (Analytics) from the University of Toronto (in 
 Honours Bachelor of Science from the University of Western Ontario, 2023
 
 - 🔭 I'm currently targetting a job in the data space 
-- 👀 I’m interested in all things data
+- 👀 I’m interested in all things data and am working on new projects
 - 📚 I’m currently learning advanced learning algorithms, ETL/ELT tools, and taking some Coursera courses. 
 - 📫 How to reach me: Message me on Linkedin (linked below) or email me at jacobtrombley8@gmail.com!
 
